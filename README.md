@@ -11,7 +11,7 @@ This account holds public data and tools from that work. Everything here is open
 ## Elsewhere
 
 - **[Prototyping Politics](https://prototypingpolitics.substack.com)** — my Substack on parties, factions, and the machinery of self-government.
-- **FAI writing** — [Congress Could Just Say What It Delegates](https://www.thefai.org/posts/congress-could-just-say-what-it-delegates) (standard empowerment clauses after *Loper Bright*); [Renovating the People's House](https://www.thefai.org/posts/renovating-the-people-s-house-rules-reforms-for-the-119th-congress) (House rules reforms; the 120th Congress edition is at the same site); and, with James Wallner, *Rebuilding Congress from Within: How Factions Facilitate Deliberation and Lawmaking*. Full list at [thefai.org](https://www.thefai.org).
+- **[FAI profile](https://www.thefai.org/profile/soren-dayton)** — my reports, essays, and commentary for the Foundation for American Innovation.
 
 ## Contact
 
